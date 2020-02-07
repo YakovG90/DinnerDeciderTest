@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DinnerDecider</string>
+    <string name="chinese">Chinese</string>
+    <string name="logoDescription">This is the logo description</string>
+    <string name="decideButton">DECIDE</string>
+    <string name="addFoodTxtDefault">Add new food..</string>
+    <string name="addFoodBtn">ADD FOOD</string>
+</resources>
